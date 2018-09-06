@@ -74,6 +74,14 @@ h2 {
 	.header-logo {
 		margin-left: 0;
 	}
+/*	.header-title {
+	font-size: 30px;
+}
+
+	.header-subtitle {
+	font-size: 22px;
+}
+*/
 }
 
 @media screen and (min-width: 576px) {
